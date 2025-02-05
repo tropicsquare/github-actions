@@ -19,3 +19,6 @@
 [submodule "actions-setup-cmake"]
 	path = actions-setup-cmake
 	url = git@github.com:jwlawson/actions-setup-cmake.git
+[submodule "setup-gcc"]
+	path = setup-gcc
+	url = https://github.com/egor-tensin/setup-gcc.git
