@@ -7,3 +7,6 @@
 [submodule "cmake-action"]
 	path = cmake-action
 	url = git@github.com:threeal/cmake-action.git
+[submodule "upload-pages-artifact"]
+	path = upload-pages-artifact
+	url = git@github.com:actions/upload-pages-artifact.git
