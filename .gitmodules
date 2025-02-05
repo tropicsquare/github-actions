@@ -1,0 +1,27 @@
+[submodule "checkout"]
+	path = checkout
+	url = https://github.com/actions/checkout.git
+[submodule "cache-apt-pkgs-action"]
+	path = cache-apt-pkgs-action
+	url = https://github.com/awalsh128/cache-apt-pkgs-action.git
+[submodule "cmake-action"]
+	path = cmake-action
+	url = git@github.com:threeal/cmake-action.git
+[submodule "upload-pages-artifact"]
+	path = upload-pages-artifact
+	url = git@github.com:actions/upload-pages-artifact.git
+[submodule "deploy-pages"]
+	path = deploy-pages
+	url = https://github.com/actions/deploy-pages.git
+[submodule "upload-artifact"]
+	path = upload-artifact
+	url = https://github.com/actions/upload-artifact.git
+[submodule "actions-setup-cmake"]
+	path = actions-setup-cmake
+	url = git@github.com:jwlawson/actions-setup-cmake.git
+[submodule "setup-gcc"]
+	path = setup-gcc
+	url = https://github.com/egor-tensin/setup-gcc.git
+[submodule "CodeChecker-Action"]
+	path = CodeChecker-Action
+	url = https://github.com/whisperity/CodeChecker-Action.git
