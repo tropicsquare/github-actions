@@ -1,0 +1,3 @@
+[submodule "checkout"]
+	path = checkout
+	url = https://github.com/actions/checkout.git
