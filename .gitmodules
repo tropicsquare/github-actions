@@ -4,3 +4,6 @@
 [submodule "cache-apt-pkgs-action"]
 	path = cache-apt-pkgs-action
 	url = https://github.com/awalsh128/cache-apt-pkgs-action.git
+[submodule "cmake-action"]
+	path = cmake-action
+	url = git@github.com:threeal/cmake-action.git
