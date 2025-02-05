@@ -1,3 +1,6 @@
 [submodule "checkout"]
 	path = checkout
 	url = https://github.com/actions/checkout.git
+[submodule "cache-apt-pkgs-action"]
+	path = cache-apt-pkgs-action
+	url = https://github.com/awalsh128/cache-apt-pkgs-action.git
