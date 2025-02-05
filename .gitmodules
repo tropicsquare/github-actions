@@ -22,3 +22,6 @@
 [submodule "setup-gcc"]
 	path = setup-gcc
 	url = https://github.com/egor-tensin/setup-gcc.git
+[submodule "CodeChecker-Action"]
+	path = CodeChecker-Action
+	url = https://github.com/whisperity/CodeChecker-Action.git
