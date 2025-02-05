@@ -16,3 +16,6 @@
 [submodule "upload-artifact"]
 	path = upload-artifact
 	url = https://github.com/actions/upload-artifact.git
+[submodule "actions-setup-cmake"]
+	path = actions-setup-cmake
+	url = git@github.com:jwlawson/actions-setup-cmake.git
