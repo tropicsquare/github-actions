@@ -10,3 +10,6 @@
 [submodule "upload-pages-artifact"]
 	path = upload-pages-artifact
 	url = git@github.com:actions/upload-pages-artifact.git
+[submodule "deploy-pages"]
+	path = deploy-pages
+	url = https://github.com/actions/deploy-pages.git
